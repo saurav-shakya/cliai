@@ -60,11 +60,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eyaltoledano/claude-hackmindai.git"
+    "url": "git+https://github.com/Dampipal/cliai.git"
   },
-  "homepage": "https://github.com/eyaltoledano/claude-hackmindai#readme",
+  "homepage": "https://github.com/Dampipal/cliai#readme",
   "bugs": {
-    "url": "https://github.com/eyaltoledano/claude-hackmindai/issues"
+    "url": "https://github.com/Dampipal/cliai/issues"
   },
   "files": [
     "scripts/init.js",
