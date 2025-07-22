@@ -1,6 +1,6 @@
-# Task Master
+# CLIai
 
-### by [@DampiPal](https://x.com/paldampi)
+### by [@DampiPal](https://x.com/paldampi) and @sauravv_x](https://x.com/sauravv_x)
 
 A task management system for AI-driven development with Claude, designed to work seamlessly with Cursor AI.
 
